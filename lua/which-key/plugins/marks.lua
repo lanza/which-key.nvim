@@ -8,7 +8,7 @@ M.mappings = {
   icon = { icon = "󰸕 ", color = "orange" },
   plugin = "marks",
   { "`", desc = "marks" },
-  { "'", desc = "marks" },
+  { "''", desc = "marks" },
   { "g`", desc = "marks" },
   { "g'", desc = "marks" },
 }
